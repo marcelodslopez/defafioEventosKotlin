@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#004D40</color>
+
+    <color name="colorBackgroudCard">#39939bf2</color>
+
+    <color name="white">#ffffff</color>
+    <!-- Cores com opacidade -->
+    <color name="azul_menu_opacity">#6633b6e5</color>
+    <color name="azul_petroleo_opacity">#66084d6e</color>
+    <color name="cinza_escuro_opacity">#662d2d2d</color>
+    <color name="cinza_escuro_opacity_dark">#c42d2d2d</color>
+    <color name="cinza_claro_opacity_dark">#B9D3D3D3</color>
+    <color name="preto_opacity">#33000000</color>
+    <color name="branco_opacity">#99ffffff</color>
+    <color name="lightyellow_opacity">#66ffffe0</color>
+    <color name="cinza_c_opacity">#99EDEDF3</color>
+    <color name="ouro_opacity">#66ffd700</color>
+    <color name="primary_text">#DE000000</color>
+    <color name="secundary_text">#8A000000</color>
+</resources>
