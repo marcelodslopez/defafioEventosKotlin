@@ -1,4 +1,4 @@
-package com.example.desafioeventos.models
+package com.example.desafioeventos.model
 
 /**
  * Created by Marcelo López on 01/09/2020

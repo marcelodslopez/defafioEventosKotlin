@@ -1,8 +1,8 @@
 package com.example.desafioeventos.api
 
-import com.example.desafioeventos.models.Checkin
-import com.example.desafioeventos.models.Event
-import com.example.desafioeventos.models.EventDetail
+import com.example.desafioeventos.model.Checkin
+import com.example.desafioeventos.model.Event
+import com.example.desafioeventos.model.EventDetail
 
 import retrofit2.Call
 import retrofit2.http.*

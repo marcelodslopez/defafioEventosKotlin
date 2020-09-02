@@ -17,9 +17,9 @@ import com.example.desafioeventos.BuildConfig
 import com.example.desafioeventos.R
 import com.example.desafioeventos.adapter.AdapterGeneric
 import com.example.desafioeventos.api.EventAPI
-import com.example.desafioeventos.models.Cupom
-import com.example.desafioeventos.models.EventDetail
-import com.example.desafioeventos.models.Person
+import com.example.desafioeventos.model.Cupom
+import com.example.desafioeventos.model.EventDetail
+import com.example.desafioeventos.model.Person
 import com.example.desafioeventos.util.Utilidades
 import com.squareup.picasso.Picasso
 import org.json.JSONException

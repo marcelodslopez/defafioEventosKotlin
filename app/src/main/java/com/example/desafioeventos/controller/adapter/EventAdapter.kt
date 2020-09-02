@@ -1,7 +1,6 @@
 package com.example.desafioeventos.adapter
 
 import android.app.Activity
-import android.app.Application
 import android.app.ProgressDialog
 import android.content.Context
 import android.content.Intent
@@ -18,8 +17,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.desafioeventos.view.DetailEventActivity
 import com.example.desafioeventos.R
 import com.example.desafioeventos.api.EventAPI
-import com.example.desafioeventos.models.Event
-import com.example.desafioeventos.models.EventDetail
+import com.example.desafioeventos.model.Event
+import com.example.desafioeventos.model.EventDetail
 import com.squareup.picasso.Picasso
 import retrofit2.Call
 import retrofit2.Callback

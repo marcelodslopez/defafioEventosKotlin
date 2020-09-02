@@ -1,11 +1,7 @@
-package com.example.desafioeventos.models
+package com.example.desafioeventos.model
 
 import android.os.Parcel
 import android.os.Parcelable
-import com.google.gson.annotations.Expose
-import com.google.gson.annotations.SerializedName
-
-import java.io.Serializable
 
 /**
  * Created by Marcelo López on 01/09/2020

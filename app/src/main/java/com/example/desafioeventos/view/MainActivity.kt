@@ -2,7 +2,6 @@ package com.example.desafioeventos.view
 
 
 import android.app.ProgressDialog
-import android.opengl.Visibility
 import android.os.Bundle
 import android.os.Handler
 import android.view.Menu
@@ -23,7 +22,7 @@ import butterknife.OnClick
 import com.example.desafioeventos.R
 import com.example.desafioeventos.adapter.EventAdapter
 import com.example.desafioeventos.api.EventAPI
-import com.example.desafioeventos.models.Event
+import com.example.desafioeventos.model.Event
 import com.example.desafioeventos.util.Utilidades
 import com.google.android.material.navigation.NavigationView
 import retrofit2.Call

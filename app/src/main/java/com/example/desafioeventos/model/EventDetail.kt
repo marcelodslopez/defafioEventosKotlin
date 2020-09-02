@@ -1,4 +1,4 @@
-package com.example.desafioeventos.models
+package com.example.desafioeventos.model
 
 import android.os.Parcel
 import android.os.Parcelable

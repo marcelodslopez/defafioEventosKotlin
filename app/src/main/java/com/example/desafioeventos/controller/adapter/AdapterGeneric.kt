@@ -6,8 +6,8 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.BaseAdapter
 import com.example.desafioeventos.R
-import com.example.desafioeventos.models.Cupom
-import com.example.desafioeventos.models.Person
+import com.example.desafioeventos.model.Cupom
+import com.example.desafioeventos.model.Person
 import kotlinx.android.synthetic.main.item_people.view.*
 import kotlin.random.Random
 
